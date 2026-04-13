@@ -15,7 +15,7 @@ The **Archangæl Project** is the unified result of that struggle. It’s the co
 * **THE GUARDIAN ANGÆL PROTOCOL (GAP):** The enforcement. Moving safety from software to bare-metal hardware gates (ARMv9-A CCA).
 * **THE SOVEREIGN IP VAULT (SIPV):** The custody. A zero-trust realm where my business stays *my* business. No leaks, no extortion, no backdoors.
 
-I’m weaving these together to ensure absolute operator sovereignty. Through proprietary architectural hardening and strict isolation protocols, the result is the same: **Absolute IP Custody.**
+I’m weaving these together to ensure absolute operator sovereignty. Through proprietary architectural hardening and strict isolation protocols, the result is the same: **Absolute Human Sovereignty.**
 
 ---
 **Architect:** Alexander Colclough (@Lex-Col)
