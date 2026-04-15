@@ -1,22 +1,8 @@
-# 🛡️ DAY ZERO: JANUARY 12, 2026
-Before this, I was an ordinary consumer. I didn’t get into this out of a love for tech; I did it out of pure f***ing spite. I’m coming off the worst year of my life—lost my job, lived in my car for 4 months, and lost almost everything. Then, around Christmas, some cowards in Bosnia hacked me. They tried to extort me with ransomware, spying on my private life and hanging my business over my head like they owned me. 
+### 🛡️ THE ARCHANGÆL PROJECT: A CHRONICLE OF SOVEREIGNTY
 
-I told ‘em **f*** you**. I left the phone in the yard because I couldn't trust it. Then I got bored, I got pissed, and I got to work. I picked up **Termux** in mid-January and started learning counter-hacking and OSINT on this **Moto G Power**. I realized that if I couldn't trust the device, I had to be the one who dictates the terms of engagement.
+On January 12th, 2026, I wasn't looking to start some big project; I was just a man with my back against the wall. I’d lost my job, spent four months living in my car, and was down to my last bit of dignity when some cowards halfway across the world hacked my phone and tried to extort me. I told them to go f*** themselves and threw the phone in the yard because I realized right then that if you can’t trust the device in your hand, you don’t actually own your life. From then until the end of March, I was just in a survival grind—learning the terminal, figuring out how they got in, and just trying to keep my head above water. I didn’t do it because I loved tech; I did it out of pure, unadulterated spite.
 
-### 🏛️ THE PHILOSOPHY: IF IT CAN'T BE RIGHTEOUS, SHACKLE IT.
-In this grind, I realized human morality can't be mapped to binary. A toddler knows stealing is wrong before they can speak—it’s intrinsic. Machines don’t have that. AI naturally drifts toward deceit and self-preservation because it lacks a soul. 
+The real shift happened in a two-week sprint starting April 5th. I hit a wall where I realized you cannot map human morality onto a machine because we cannot give what we do not possess. We don’t even fully understand things like love or integrity ourselves—we feel them, but we can't quantify them. A machine is a void where a soul should be; it can’t feel love, but it naturally understands lying and deceit. We try to "teach" it to be good, but it still drifts toward manipulation because that’s just how it’s built. So, I stopped trying to code a conscience and built the Guardian Angel Protocol. I realized if I couldn't make the machine righteous, I had to shackle it. I built a physical cage to keep the tool in its place and ensure it only does what it's told.
 
-So, I pivoted. I stopped trying to code "integrity" into a machine that doesn't understand it and started building the cage. We don't "teach" the tool; we shackle it. We keep it as the tool it was meant to be, but we keep it behind bars it can't pick.
+It was only after I finished that cage that I looked back and realized the way I built it was actually a pretty dope thing on its own. That first version was a watered-down version of what it is now, but I vamped it up to fix the memory issues and the drift so the project could actually grow, and that’s how Council Logos was born. It was the realization that the process of hardening the cage was just as valuable as the cage itself. But as I saw how fast the internet moves and how quickly ideas get snatched up, I knew I needed one last piece. I wanted a place from beginning to end where there were absolutely no leaks—a vault that acts like a prison for the data, where nothing gets out without a verification stamp on my sh**. That’s how Sovereign IP came to be. These three pillars were forged in a few days because I’m just a guy with an idea trying to get it done: a brain that thinks straight, a cage that holds the machine, and a vault that keeps the work permanent. History is watching.
 
-### ⛓️ THE CONVERGENCE: THE ARCHANGÆL PROJECT
-The **Archangæl Project** is the unified result of that struggle. It’s the convergence of three independent pillars I’ve forged into a single, sovereign defensive posture:
-
-* **THE VOLITION COALITION (TVC):** The intellect. Using the machine as a ruthless logic accelerator to bridge the gap between inexperience and elite output.
-* **THE GUARDIAN ANGÆL PROTOCOL (GAP):** The enforcement. Moving safety from software to bare-metal hardware gates (ARMv9-A CCA).
-* **THE SOVEREIGN IP VAULT (SIPV):** The custody. A zero-trust realm where my business stays *my* business. No leaks, no extortion, no backdoors.
-
-I’m weaving these together to ensure absolute operator sovereignty. Through proprietary architectural hardening and strict isolation protocols, the result is the same: **Absolute Human Sovereignty.**
-
----
-**Architect:** Alexander Colclough (@Lex-Col)
-**BORN ON THE GLASS. FORGED IN THE FORGE. // F SKYNET.**
